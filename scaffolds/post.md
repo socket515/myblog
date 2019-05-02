@@ -1,5 +1,5 @@
 ---
-title: hexo+github搭建个人博客
+title: {{title}}
 date: {{ date }}
 tags:
 ---
