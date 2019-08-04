@@ -2,6 +2,7 @@
 title: grpc
 date: 2019-07-21 16:48:54
 tags:
+ - golang
 categories:
 ---
 <meta name="referrer" content="no-referrer" />
