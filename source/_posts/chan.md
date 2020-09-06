@@ -2,7 +2,9 @@
 title: channel 和 select
 date: 2020-08-30 20:46:40
 tags:
+- golang
 categories:
+- golang
 ---
 <meta name="referrer" content="no-referrer" />
  golang中经典的就是goroutine和channel这两个的设计，其中channel是引用CSP理论设计的，不要用内存来通讯，用通讯来贡献内存。channel提供一种跨goroutine通讯的方式。
